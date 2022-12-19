@@ -1,20 +1,23 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Quizzler ❓
+
+A quiz app that tests your general knowledge
+
+## Authors
+
+- [@Chamidilshan](https://www.github.com/Chamidilshan)
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
 
 ## Our Goal
 
 In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 
-## What you will create
-
-We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
-
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
+## Lessons
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
