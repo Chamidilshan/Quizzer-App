@@ -1,6 +1,6 @@
 # Quizzler ❓
 
-A quiz app that tests your general knowledge
+A quiz app that tests your general knowledge. Created quiz app with reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
 
 ## Authors
 
@@ -10,9 +10,8 @@ A quiz app that tests your general knowledge
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
 
-## Our Goal
 
-In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+
 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
